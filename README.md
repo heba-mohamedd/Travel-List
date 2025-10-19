@@ -41,31 +41,24 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+###### Travel List App
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+A React-based web application that helps users organize and manage their packing list for trips efficiently.
+The app allows users to add items, mark them as packed, delete them, and sort the list based on different criteria (input order, description, or packed status).
+It provides a clear visual overview of packing progress with real-time statistics showing how many items are packed and the total percentage completed.
 
-### Code Splitting
+Key Features:
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Add and remove travel items dynamically
 
-### Analyzing the Bundle Size
+Mark items as packed or unpacked
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Sorting functionality (by input, description, or packed status)
 
-### Making a Progressive Web App
+Display of total packed items and progress percentage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+Simple and responsive user interface built with React hooks (useState)
 
-### Advanced Configuration
+Tech Stack:
+React.js, HTML5, CSS3, JavaScript (ES6)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-"# Travel-List" 
